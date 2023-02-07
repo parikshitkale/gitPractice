@@ -1,1 +1,5 @@
 commit1
+<<<<<<< HEAD
+=======
+xyz
+>>>>>>> feature1
